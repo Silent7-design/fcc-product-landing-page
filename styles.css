@@ -1,0 +1,11 @@
+#header-img{
+  width:140px;
+  height:100px;
+  margin:10 0 0 10;
+  display:flex;
+  position:relative
+}
+#nav-bar{
+  position:fixed;
+  top:0
+}

@@ -1,0 +1,50 @@
+** start of undefined **
+
+<!DOCTYPE HTML>
+<html>
+  <head><title id="title">Nelson Mandela</title>
+  <link href="styles.css" rel="stylesheet">
+  </head>
+  <body>
+    <main id="main-doc">
+     
+        <header id="header"><img id="header-img" src="https://www.shutterstock.com/image-vector/modern-minimalist-home-appliance-store-260nw-2022618953.jpg">Furniture and Home Appliances
+    <form id="form" action="https://www.freecodecamp.com/email-submit">
+      <input name="email" id="email" type="email" placeholder="Enter your email">
+      <a href=""><input type="submit" id="submit"></a>
+    </form>
+    <nav id="nav-bar">
+      <a class="nav-link" href="#Feature">Feature</a>
+      <a href="#Pricing" class="nav-link">Pricing</a>
+      <a href="#Customer" class="nav-link">Customer Service</a>
+    </nav>
+       </header>
+ <section id="Feature"></section>
+ <section id="Pricing"></section>
+ <section id="Customer"></section>
+ <video id="video" width="320" height="240" controls>
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>
+  </body>
+  </html>
+
+** end of undefined **
+
+** start of undefined **
+
+#header-img{
+  width:140px;
+  height:100px;
+  margin:10 0 0 10;
+  display:flex;
+  position:relative
+}
+#nav-bar{
+  position:fixed;
+  top:0
+}
+
+** end of undefined **
+
